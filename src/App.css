@@ -1,0 +1,26 @@
+#root {
+  max-width: 100%;
+  /*margin: 0 auto;*/
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  line-height: 0.5;
+}
+
+body {
+  display: flex;
+
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(./image/ur-tavla-svart.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.part1 {
+  text-align: center;
+}
+.part2 {
+  text-align: center;
+}
